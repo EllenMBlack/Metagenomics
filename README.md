@@ -1,5 +1,5 @@
 # Bioinformatics used for shotgun sequencing data analysis
-# Ellen Black, Research assistant in Just lab at the University of Iowa
+# Contig matches using blastX with diamond
 Notes for running diamond on uiowa HPC:
   1.	Open SecureCRT
     a.	Enter passcode
