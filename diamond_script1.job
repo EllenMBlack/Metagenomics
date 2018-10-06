@@ -1,0 +1,4 @@
+#!/bin/bash
+#script to run blastx with diamond
+/Users/emblack/diamond/blastx_script1.bin
+#$ -q FISH

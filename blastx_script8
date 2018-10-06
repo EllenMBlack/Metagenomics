@@ -1,0 +1,2 @@
+PATH=$PATH:$HOME/bin:$HOME/diamond
+diamond blastx -d /Users/emblack/diamond/nr -q /Users/emblack/Shotgun_metagenomics/Sample8/S8contigs.fasta -a /Users/emblack/diamond/matches8 -t /Users/emblack/diamond/temp
